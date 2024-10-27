@@ -96,7 +96,7 @@ body {
     margin-top: 550px;
     /*margin-bottom: 500px;*/
     height: 745px;
-    background: url("/images/undraw_mobile_login_ikmv.png") no-repeat top right;
+    background: url("../images/undraw_mobile_login_ikmv.png") no-repeat top right;
 }
 .main__content {
     width: 550px;
@@ -146,21 +146,21 @@ body {
 }
 .ad-first--modified {
     height: 480px;
-    background: url("/images/undraw_happy_news_hxmt.png") no-repeat top left;
+    background: url("../images/undraw_happy_news_hxmt.png") no-repeat top left;
 }
 .ad-second--modified {
     height: 540px;
-    background: url("/images/undraw_social_influencer_sgsv.png") no-repeat top left;
+    background: url("../images/undraw_social_influencer_sgsv.png") no-repeat top left;
 }
 .ad-third--modified {
     height: 450px;
-    background: url("/images/undraw_mention_6k5d.png") no-repeat top left;
+    background: url("../images/undraw_mention_6k5d.png") no-repeat top left;
 }
 .content-ad__description--modified {
     padding-bottom: 30px;
 }
 .main__container-footer {
-    background: url("/images/Rectangle.png") no-repeat  ;
+    background: url("../images/Rectangle.png") no-repeat  ;
     background-size: cover;
     height: 930px;
 }
