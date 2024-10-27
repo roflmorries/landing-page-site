@@ -34,7 +34,6 @@ body {
 .header__logo {
     font-weight: 900;
     font-size: 26px;
-    /*line-height: 38px;*/
     padding-right: 50px;
 }
 .header__styled_button {
@@ -94,7 +93,6 @@ body {
 }
 .main__container {
     margin-top: 550px;
-    /*margin-bottom: 500px;*/
     height: 745px;
     background: url("../images/undraw_mobile_login_ikmv.png") no-repeat top right;
 }
@@ -117,7 +115,6 @@ body {
     width: 255px;
     display: flex;
     flex-direction: column;
-    /*line-height: 13px;*/
 }
 .additional-block__item h4{
     margin: 14px 0 0 0;
@@ -168,7 +165,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /*height: 930px;*/
 }
 .main_content-footer_block {
     width: 600px;
@@ -196,6 +192,7 @@ body {
     color: #37447F;
     font-size: 16px;
     margin-top: 10px;
+    margin-bottom: 60px;
 }
 .content-footer__button_text {
     font-size: 14px;
@@ -242,7 +239,6 @@ body {
     text-decoration: none;
     background: #111B47;
     color: white;
-    /*width: 160px;*/
     font-size: 12px;
     padding: 7px 15px 7px 15px;
 }
